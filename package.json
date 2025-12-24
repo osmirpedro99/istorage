@@ -1,0 +1,26 @@
+{
+  "name": "istorage",
+  "version": "1.0.0",
+  "description": "This is a simple control storage",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "ts-node src/main.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/osmirpedro99/istorage.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/osmirpedro99/istorage/issues"
+  },
+  "homepage": "https://github.com/osmirpedro99/istorage#readme",
+  "devDependencies": {
+    "@types/node": "^25.0.3",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.9.3"
+  }
+}
